@@ -2,4 +2,4 @@
 
 ### Images from Unsplash API.
 
-(Live demo)[https://photography-portfolio-gray.vercel.app/]
+[Live demo](https://photography-portfolio-gray.vercel.app/)
